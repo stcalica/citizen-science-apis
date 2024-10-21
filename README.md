@@ -1,4 +1,4 @@
-# Discover the Best APIs for Your Hackathon Project
+# Discover the Best Free and Public Citizen APIs for Your Hackathon Project
 
 Are you a hackathon participant or a developer searching for the perfect API to integrate into your next project? Look no further! We’ve curated a comprehensive list of citizen science APIs! 
 
